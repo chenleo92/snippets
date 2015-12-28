@@ -1,0 +1,6 @@
+# name: absolute value
+# key: abs
+# group: math
+# contributor: Tongjie
+# --
+|$1|$0

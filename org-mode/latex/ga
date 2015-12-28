@@ -1,0 +1,6 @@
+# name: Gauss' theorem
+# key: Ga
+# group: physics
+# contributor: Tongjie
+# --
+\int_V d^3 r^\prime $1 = \int_S d^2 r^\prime $0

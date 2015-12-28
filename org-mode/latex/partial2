@@ -1,0 +1,6 @@
+# name: Second Partial
+# key: p2
+# group: math
+# contributor: Tongjie Chen
+# --
+\frac{\partial^2 $1}{\partial $0 ^2}

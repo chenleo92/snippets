@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: pycp
+# group: python
+# name: Python for Computation Physics
+# --
+
+#+begin_src python :results output :exports none :tangle yes
+## Source for Problem $0
+
+from math import *
+import numpy as np
+import matplotlib.pyplot as plt
+$1
+#+end_src

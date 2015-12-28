@@ -1,0 +1,6 @@
+# name: mirror1
+# key: m1
+# group: physics
+# contributor: Tongjie Chen
+# --
+$1 $2 $1 $2 $0

@@ -1,0 +1,6 @@
+# name: mirror
+# key: 12
+# group: physics
+# contributor: Tongjie Chen
+# --
+$1 $2 $1 $0

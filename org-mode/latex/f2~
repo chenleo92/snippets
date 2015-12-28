@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: f2
+# group: math
+# name: \frac{numerator}{denominator}
+# --
+\frac{1}{2}

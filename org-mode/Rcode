@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: R code
+# key: R
+# binding: 
+# --
+#+begin_src R 
+$0
+#+end_src

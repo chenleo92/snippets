@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: place
+# key: place
+# --
+     \begin{figure}[H]
+     \centering
+     \includegraphics[width=0.2\textwidth]{place}
+     \end{figure}

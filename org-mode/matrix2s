@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: matrix2s
+# key: matrix
+# possible improvement, compute the number of lines from the argument to array
+# --
+\left \(
+\begin{array}{{cc}}
+$1 & $3 \\\
+$3 & $2
+\end{array}
+\right \)
+$0

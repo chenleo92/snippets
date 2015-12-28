@@ -1,0 +1,5 @@
+# name: slashed
+# key: sl
+# contributor: Tongjie
+# --
+\slashed{$1}$0

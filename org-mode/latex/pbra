@@ -1,0 +1,6 @@
+# name: Poisson	Bracket	
+# key: pbra
+# group: physics
+# contributor: Tongjie Chen
+# --
+[$1, $2]$0

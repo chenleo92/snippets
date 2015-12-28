@@ -1,0 +1,6 @@
+# name: Lagrangian
+# key: L
+# group: physics
+# contributor: Tongjie Chen
+# --
+\frac{d}{dt}(\frac{\partial L}{\partial \dot $0}-\frac{\partial L}{\partial $0}=0

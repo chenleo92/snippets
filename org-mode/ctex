@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: ctex
+# key: ctex
+# --
+#+LaTeX_HEADER: \usepackage{ctex}
+#+LaTeX_HEADER: \usepackage{fontspec}
+#+LaTeX_HEADER: \setCJKmainfont{SimSun}
+#+LaTeX_HEADER: \setCJKmonofont{SimHei}
+$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: 4pe
+# group: math
+# name: 4 pi eplison_0
+# --
+4 \pi \epsilon_0

@@ -1,0 +1,6 @@
+# name: Dirac Bracket
+# key: dag
+# group: physics
+# contributor: Tongjie Chen
+# --
+^{\dagger}

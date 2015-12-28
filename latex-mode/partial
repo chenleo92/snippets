@@ -1,0 +1,6 @@
+# name: Partial 
+# key: p
+# group: math
+# contributor: Tongjie
+# --
+\frac{\partial $1}{\partial $0}

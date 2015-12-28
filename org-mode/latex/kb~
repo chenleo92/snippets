@@ -1,0 +1,6 @@
+# name: Ket bra
+# key: kb
+# group: physics
+# contributor: Tongjie Chen
+# --
+[$1, $2]$0

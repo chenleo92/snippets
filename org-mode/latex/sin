@@ -1,0 +1,6 @@
+# name: sine
+# key: sin
+# group: math
+# contributor: Tongjie Chen
+# --
+\sin $0

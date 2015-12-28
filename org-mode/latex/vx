@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: vx
+# group: math
+# name: vector of x
+# --
+\vec{x}

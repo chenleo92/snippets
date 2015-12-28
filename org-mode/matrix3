@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: matrix3
+# key: matrix
+# possible improvement, compute the number of lines from the argument to array
+# --
+\left \(
+\begin{array}{{ccc}}
+$1 & $2 & $3 \\\
+$4 & $5 & $6 \\\
+$7 & $8 & $9
+\end{array}
+\right \)
+$0

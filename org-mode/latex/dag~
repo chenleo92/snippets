@@ -1,0 +1,6 @@
+# name: Dirac Bracket
+# key: b
+# group: physics
+# contributor: Tongjie Chen
+# --
+\Bracket{$1|$2}$0

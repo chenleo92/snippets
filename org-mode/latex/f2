@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: f2
+# group: math
+# name: frac 2
+# --
+\frac{1}{2}

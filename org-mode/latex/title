@@ -1,0 +1,8 @@
+# name: title
+# key: title
+# group: latex
+# contributor: Tongjie Chen
+# --
+#+Title: $1
+#+Author: $2
+#+Date: $0

@@ -1,0 +1,6 @@
+# name: expontential
+# key: exp
+# group: math
+# contributor: Tongjie Chen
+# --
+\exp($0)

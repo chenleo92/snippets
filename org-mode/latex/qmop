@@ -1,0 +1,6 @@
+# name: QM operator
+# key: qmop
+# group: physics
+# contributor: Tongjie Chen
+# --
+$1^{dagger}($2) $3 $1($2) $0

@@ -1,0 +1,5 @@
+# name: second partial
+# key: p2
+# contributor: Tongjie
+# --
+\fraction{\partial^2 $1}{\partial $2^2}$0

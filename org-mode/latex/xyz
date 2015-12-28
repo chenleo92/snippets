@@ -1,0 +1,6 @@
+# name: xyz
+# key: xyz
+# group: physics
+# contributor: Tongjie Chen
+# --
+$1_x $2 $1_y $2 $1_z $2 $0

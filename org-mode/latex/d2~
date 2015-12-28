@@ -1,0 +1,6 @@
+# name: Differential 
+# key: d2
+# group: math
+# contributor: Tongjie
+# --
+\frac{d ^{$1} $2}{d $0 ^{$1}}

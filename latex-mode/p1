@@ -1,0 +1,5 @@
+# name: first partial
+# key: p1
+# contributor: Tongjie
+# --
+\fraction{\partial $1}{\partial $2}$0
